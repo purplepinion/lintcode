@@ -2,9 +2,9 @@
 
 ##### 继承关系
 
-ArrayList在java.util包下。
+LinkedList在java.util包下。
 
-ArrayList继承AbstractSequentialList类。
+LinkedList继承AbstractSequentialList类。
 
 并且实现List<E>, Deque<E>, Cloneable, java.io.Serializable接口。支持list操作，Deque双端队列操作，克隆，序列化。
 
