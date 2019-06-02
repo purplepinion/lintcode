@@ -50,10 +50,10 @@ public class Solution {
         }
         
         if(l1!=null){
-            head.next = l1;
+            last.next = l1;
         }
         else if(l2!=null){
-            head.next = l2;
+            last.next = l2;
         }
         
         return head.next;
